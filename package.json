@@ -1,0 +1,27 @@
+{
+  "name": "freshreact",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "react-native": "^0.21.0",
+    "react-native-android-mapview": "^0.18.1",
+    "react-native-collapsible": "^0.5.6",
+    "react-native-dropdown": "^0.0.6",
+    "react-native-facebook-login": "^1.0.3",
+    "react-native-google-places-autocomplete": "^1.1.6",
+    "react-native-maps": "^0.3.1",
+    "react-native-tabbar": "^0.3.5"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "react-component",
+    "map",
+    "mapview",
+    "google-maps",
+    "mapkit"
+  ]
+}
